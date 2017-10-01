@@ -59,9 +59,9 @@ assets({
         left: 50%;
         z-index: 9999;
         display: block;
-        width: 1280px; // ширина изображения
-        height: 2390px; // высота изображения
-        margin: 0 0 0 -640px; // отступ влево в половину ширины изображения
+        width: 1280px; /* ширина изображения */
+        height: 2390px; /* высота изображения */
+        margin: 0 0 0 -640px; /* отступ влево в половину ширины изображения */
         pointer-events: none;
         transition: all .3s;
         opacity: .4;
