@@ -1,4 +1,4 @@
-# px2px
+# :leaves: px2px
 
 Проверяем, насколько разметка и стили страницы соответствует макету.
 
@@ -47,4 +47,9 @@ assets({
     ```html
     <script src="http://4enki.github.io/px2px/dist/px2px.js"></script>
     ```
-2. Cоздать слой `<div class="px2px"></div>`.
+2. Cоздать слой для тестирования
+
+    ```html
+    <div class="px2px"></div>
+    ```
+3. 
