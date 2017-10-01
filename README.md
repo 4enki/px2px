@@ -64,5 +64,5 @@ assets({
 
 ## Смотрите также
 
-- [Pixel Glass](https://github.com/yoksel/pixel-glass-js) от прекрасной @yoksel
-- [Makeup](https://github.com/2gis/makeup) от ребят из 2Gis (статья на Хабре: [habrahabr.ru/company/2gis/blog/277457/](https://habrahabr.ru/company/2gis/blog/277457/))
+- [Pixel Glass](https://github.com/yoksel/pixel-glass-js) от прекрасной [@yoksel](https://github.com/yoksel)
+- [Makeup](https://github.com/2gis/makeup) от ребят из 2Gis *(статья на Хабре: [habrahabr.ru/company/2gis/blog/277457/](https://habrahabr.ru/company/2gis/blog/277457/))*
