@@ -17,7 +17,7 @@ assets({
 })
 ```
 
-### Стили:
+### Стили
 
 Слой, который всегда по центру, смеённый на -50% от ширины макета. Инверсия и плавность с ним; скроллится. PostCSS Assets сам всё посчитает.
 
@@ -40,7 +40,7 @@ assets({
 }
 ```
 
-### Разметка:
+### Разметка
 
 ```html
 <div class="px2px"></div>
@@ -75,7 +75,7 @@ assets({
 1. Подключить JS-файл на тестируемую страницу
 
     ```html
-    <script src="https://4enki.github.io/px2px/px2px.js"></script>
+    <script src="https://4enki.github.io/px2px/px2px.min.js"></script>
     ```
 1. Cоздать слой для тестирования
 
@@ -88,3 +88,7 @@ assets({
 
 - [Pixel Glass](https://github.com/yoksel/pixel-glass-js) от прекрасной [@yoksel](https://github.com/yoksel)
 - [Makeup](https://github.com/2gis/makeup) от ребят из 2Gis *(статья на Хабре: [habrahabr.ru/company/2gis/blog/277457/](https://habrahabr.ru/company/2gis/blog/277457/))*
+
+## Что дальше-то?
+
+[ ] 
