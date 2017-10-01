@@ -53,7 +53,7 @@ assets({
 1. Подключить JS-файл на тестируемую страницу
 
     ```html
-    <script src="http://4enki.github.io/px2px/dist/px2px.js"></script>
+    <script src="https://4enki.github.io/px2px/px2px.js"></script>
     ```
 2. Cоздать слой для тестирования
 
@@ -61,3 +61,8 @@ assets({
     <div class="px2px"></div>
     ```
 3. 
+
+## Смотрите также
+
+- [Pixel Glass](https://github.com/yoksel/pixel-glass-js) от прекрасной @yoksel
+- [Makeup](https://github.com/2gis/makeup) от ребят из 2Gis (статья на Хабре: [habrahabr.ru/company/2gis/blog/277457/](https://habrahabr.ru/company/2gis/blog/277457/))
